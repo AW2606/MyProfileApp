@@ -20,10 +20,9 @@ Aplikasi ini menggunakan 3 komponen `@Composable` utama yang bersifat reusable d
 ## 📷 Screenshot
 
 ### Android
-*(Placeholder screenshot tampilan Android)*
+![Image Alt](https://github.com/AW2606/MyProfileApp/blob/9cd22ef2bcdac01fb5a3c495310f3f0d81d955f4/Dokumentasi.png)
 
-### Desktop
-*(Placeholder screenshot tampilan Desktop)*
+
 
 ---
 
